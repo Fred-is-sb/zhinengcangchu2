@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# 智能仓储2.0官网
 
-You can use the [editor on GitHub](https://github.com/Fred-is-sb/zhinengcangchu2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Fred-is-sb/zhinengcangchu2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 《智能仓储2.0》
+          ——于逸飞  王宇航
+### 问题的发现
+  智能时代已经来临，各行各业都在应用智能环境。然而，这个时代来得太快了，有些行业中的应用需要改善。我们就仓储行业中的应用进行了改善，制作出了《智能仓储2.0》。
+### 操作方法
+**1.**	通过电话联系客服，获取密码。
+**2.**	将密码输入储物柜。
+**3.**	根据储物柜提示取件。
+优点
+**1.**	不需要人工服务（如果使用机器客服（APP、客户端等也算）），一本万利
+**2.**	取件快捷，标识明显
+**3.**	24小时运营
